@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-
+        // Комментарий для создания новой ветки
         task1();
         System.out.println();
         task2();
